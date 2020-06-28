@@ -1,26 +1,24 @@
-﻿# [MSP432](https://github.com/sochub/MSP432)
+﻿# [MM32L062](https://github.com/SoCXin/MM32L062)
 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### 属于：[cortex M4](https://github.com/sochub/CM4)
+#### [Vendor](https://github.com/SoCXin/Vendor)：[MindMotion](http://www.mm32.com.cn/)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
+#### [Level](https://github.com/SoCXin/Level)：48MHz
 
-## [描述](https://github.com/sochub/MSP432/wiki) 
-[SimpleLink™ Arm® MSP432](http://www.ti.com.cn/zh-cn/microcontrollers/simplelink-mcus/wired-mcus/overview/overview.html)微控制器，具有集成型高精度 ADC，带有以太网 MAC 和 PHY 。
+## [描述](https://github.com/SoCXin/MM32L062/wiki)
 
-TI 可扩展的ARM Cortex-M4F MCU系列用于开发工业物联网的端到端解决方案，适用于从高精度传感器节点到智能有线和无线网关等多种应用。
+[MM32L062](https://github.com/SoCXin/MM32L062)具有丰富的功能和通信接口，包括AES,USB
 
-## [组成](SoC/) 
+[![sites](docs/MM32L062.png)](https://github.com/SoCXin/MM32L062)
 
-#### [文档资料](docs/)
+### [资源收录](https://github.com/SoCXin/MM32L062)
 
-参考设计和数据手册
+* [文档](docs/)
+* [资源](src/)
 
-#### [项目文件](project/)
+### [选型建议](https://github.com/SoCXin)
 
-包括各种开发资源和工程
+[MM32L062](https://github.com/SoCXin/MM32L062)
 
----
-
-###  [SoC开发平台](http://www.qitas.cn)   
-
-###  qitas@qitas.cn
+###  [SoC芯平台](http://www.SoC.Xin)
